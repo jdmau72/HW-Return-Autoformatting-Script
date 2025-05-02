@@ -2,4 +2,4 @@
 
 Script created for the Xtant hardware team to automatically format tray return sheets. 
 
-Sets up the necessary columns and generates conditional formatting for ${\textsf{\color{red}FAIL}}$, MIA, and EXTRA statuses, as well as formatting for Lot Adjustments. 
+Sets up the necessary columns and generates conditional formatting for ${\textsf{\highlight{red}FAIL}}$, MIA, and EXTRA statuses, as well as formatting for Lot Adjustments. 
